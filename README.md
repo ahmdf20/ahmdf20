@@ -10,7 +10,7 @@ I'd play game, and most of the time i'd spend my free time with playing game ðŸ˜
 
 However, i'm someone who can master something quickly.
 
-## Other Common Github Profile Sections
+## Couple Things about me
 
 ðŸ§  I'm currently learning Laravel, Vue, and React
 
