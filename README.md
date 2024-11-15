@@ -1,43 +1,7 @@
+<h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&heigh=70&duration=4000&lines=Hi+There!+👋;I'm+Ahmad+Fadilah!;"/>
+</h1>
 
-# Hi, I'm Ahmad! 👋
+<h3 align="center">Just boring person who has grind to Web Development</h3>
 
-
-## 🚀 About Me
- 
-I'm a full stack developer, i'd like to learn something interesting like AI, ML, etc.
-
-I'd play game, and most of the time i'd spend my free time with playing game 😅 (This blud spend time for games more than he spend for learn something new).
-
-However, i'm someone who can master something quickly.
-
-## Couple Things about me
-
-🧠 I'm currently learning Laravel, Vue, and React
-
-🤔 I'm looking for help with My Website Game Project
-
-💬 Ask me about everything
-
-⚡️ Fun fact : I'm a tea lover
-
-
-## 🛠 Skills
-JavaScript, PHP, CSS, Python
-
-## ⚙️ Tech Used
-Laravel, VueJS, Docker, Node JS
-
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-fadilah-a6bb20293/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/no_problem_bro_)
-
-
-## Support
-
-For more information, email ahmadfadilah202003@gmail.com or join to my discord server.
-
-## Track
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<br/>
