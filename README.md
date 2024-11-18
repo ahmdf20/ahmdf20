@@ -1,5 +1,6 @@
 <h1 align="center" style=" font-family: 'Times New Roman', Times, serif;">
  Hi There, you can call me
+ <br />
  <img src="https://readme-typing-svg.herokuapp.com?font=Times&size=40&center=true&vCenter=true&width=500&heigh=70&duration=5000&lines=Ahmad;Mamet;Mad;Met;Mahmed;Fadil;Bedil"/>
 </h1>
 
